@@ -1,0 +1,22 @@
+{
+  "name": "bloccit-alanna",
+  "version": "1.0.0",
+  "description": "a rediit-like app bla bla",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "export NODE_ENV=test&& jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alannarisse/bloccit-alanna.git"
+  },
+  "keywords": [
+    "bloc"
+  ],
+  "author": "Alanna Risse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alannarisse/bloccit-alanna/issues"
+  },
+  "homepage": "https://github.com/alannarisse/bloccit-alanna#readme"
+}
